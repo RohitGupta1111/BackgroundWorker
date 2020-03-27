@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BackgroundWorker</string>
+    <string name="button_1">Load Aeroplane</string>
+    <string name="button_2">Load Mountain</string>
+</resources>
